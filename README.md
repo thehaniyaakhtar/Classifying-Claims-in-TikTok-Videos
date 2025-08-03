@@ -1,5 +1,3 @@
----
-
 ## 📌 Project Title
 
 **Classifying Claims in TikTok Videos: An Exploratory Data Analysis Approach**
